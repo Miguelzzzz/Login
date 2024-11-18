@@ -71,7 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </section>
     </main>
     
-    <footer>Desenvolvedor: Miguel</footer>
+    <footer>Desenvolvedor: Miguel Marcondes</footer>
 </body>
 </html>
 
