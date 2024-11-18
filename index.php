@@ -16,6 +16,6 @@
         ?>
     </main>
 
-    <footer>Desenvolvedor: Miguel</footer>
+    <footer>Desenvolvedor: Miguel Marcondes</footer>
 </body>
 </html>
